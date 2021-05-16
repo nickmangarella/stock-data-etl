@@ -23,7 +23,7 @@ For this ETL project, we used Kaggle as our public source data platform. The dat
   * Created or used a year column from an existing data column
   * Formatted the year column to the same data type in each DataFrame
   * Created new Dataframes with the columns relevant to the proposed inquiry
-Figure 2: The above-described process for one of the DataFrames
+#### Figure 2: The above-described process for one of the DataFrames
 ![alt text](https://github.com/nickmangarella/stock-data-etl/blob/master/images/Figure2-1.png)
 ![alt text](https://github.com/nickmangarella/stock-data-etl/blob/master/images/Figure2-2.png)
 ![alt text](https://github.com/nickmangarella/stock-data-etl/blob/master/images/Figure2-3.png)
@@ -54,5 +54,5 @@ Figure 2: The above-described process for one of the DataFrames
 ## Load
 * Connected to the PostgreSQL database
 * Used pandas to load the merged, converted DataFrame into the database
-Figure 6: The load process into a PostgreSQL Database
+#### Figure 6: The load process into a PostgreSQL Database
 ![alt text](https://github.com/nickmangarella/stock-data-etl/blob/master/images/Figure6.png)
