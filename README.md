@@ -19,7 +19,7 @@ For this ETL project, we used Kaggle as our public source data platform. The dat
 
 ## Transformation 
 * For each of the datasets
-  * Identified data columns relevant tot he proposed inquiry
+  * Identified data columns relevant to the proposed inquiry
   * Created or used a year column from an existing data column
   * Formatted the year column to the same data type in each DataFrame
   * Created new Dataframes with the columns relevant to the proposed inquiry
